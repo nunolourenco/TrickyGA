@@ -1,0 +1,3 @@
+This is a Genetic Algorithm to solve, or at least try, a very tricky puzzle (http://www.give-me-a-clue.com/products/tile/).
+
+It uses a Order Xover, and 2 types of mutation: rotation of tiles, and swap of tiles.
